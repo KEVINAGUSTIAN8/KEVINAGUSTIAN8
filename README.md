@@ -136,12 +136,6 @@ A donation management platform built for a real organization, where I contribute
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erxanz&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
