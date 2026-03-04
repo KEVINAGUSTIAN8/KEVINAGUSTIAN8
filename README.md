@@ -108,7 +108,7 @@ A fully functional donation management platform serving a real organization, han
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Backend Technologies
+### Beginner frontend Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
