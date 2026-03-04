@@ -16,8 +16,7 @@
 
 <p align="center">
   <a href="mailto:kevinagustian001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/erxanz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/KEVINAGUSTIAN8"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -115,12 +114,12 @@ A donation management platform built for a real organization, where I contribute
   <tr>
     <td>🔄</td>
     <td><b>Q2 2026</b></td>
-    <td>Improve JavaScript skills & DOM manipulation</td>
+    <td>Beginner HTML & CSS</td>
   </tr>
   <tr>
     <td>📅</td>
     <td><b>Q3 2026</b></td>
-    <td>Learn CSS frameworks like Tailwind or Bootstrap</td>
+    <td>Learn CSS frameworks Bootstrap</td>
   </tr>
   <tr>
     <td>📅</td>
