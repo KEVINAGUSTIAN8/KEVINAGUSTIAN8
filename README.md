@@ -157,15 +157,6 @@ A donation management platform built for a real organization, where I contribute
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<p align="center">
-  <i>"The best way to predict the future is to create it." - Abraham Lincoln</i>
-</p>
-
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
