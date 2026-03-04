@@ -130,9 +130,7 @@ A donation management platform built for a real organization, where I contribute
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erxanz&theme=tokyonight" alt="GitHub Streak" />
-</div>
+
 
 ---
 
@@ -145,9 +143,6 @@ A donation management platform built for a real organization, where I contribute
 <div align="center">
 
   [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinagustian001@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://etres.my.id)
-
 </div>
 
 ---
