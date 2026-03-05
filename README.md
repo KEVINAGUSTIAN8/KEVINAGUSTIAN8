@@ -59,4 +59,4 @@ To improve my JavaScript skills and become a professional full-stack web develop
 ---
 
 ⭐ Thank you for visiting my profile!
-Every expert was once a beginner 🚀
+I may be starting from zero, but I have the determination to grow and a mentor to guide me. 🚀
