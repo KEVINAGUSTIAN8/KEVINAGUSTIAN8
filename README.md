@@ -25,7 +25,12 @@ I'm currently learning and building my skills in web development.
 - HTML (Basic)
 - CSS (Basic)
 - JavaScript (Still Learning - Beginner Level)
+## 🛠️ Tech Stack
 
+![HTML](https://img.shields.io/badge/HTML5-Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Basic-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-Basic-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ### 🔙 Backend
 - PHP (Basic)
 
