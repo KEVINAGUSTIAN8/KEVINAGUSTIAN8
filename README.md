@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kevin%20Agustian&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Beginner%20Web%20Developer%20%7C%20Indonesia%20🇮🇩&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Kevin+Agustian+👋;Aspiring+Full-Stack+Developer+🚀;Learning+One+Line+of+Code+at+a+Time+💻;From+Zero+to+Hero+%E2%80%94+Let's+Go!+⚡" alt="Typing SVG" />
+
 
 </div>
 
@@ -76,10 +76,6 @@ const kevin = {
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KEVINAGUSTIAN8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEVINAGUSTIAN8&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <div align="center">
