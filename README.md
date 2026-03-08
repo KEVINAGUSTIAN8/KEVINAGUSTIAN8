@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kevin%20Agustian&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Beginner%20Web%20Developer%20%7C%20Indonesia%20🇮🇩&descAlignY=60&descSize=18" width="100%"/>
+# 👋 Hi, I'm Kevin Agustian
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Kevin+Agustian+👋;Aspiring+Full-Stack+Developer+🚀;Learning+One+Line+of+Code+at+a+Time+💻;From+Zero+to+Hero+%E2%80%94+Let's+Go!+⚡" alt="Typing SVG" />
+### 💻 Beginner Web Developer &nbsp;|&nbsp; 🇮🇩 Indonesia
+
+> *"Starting from zero, growing every day — one line of code at a time."* 🚀
 
 </div>
 
@@ -118,7 +120,7 @@ const kevin = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
 
 ### ⭐ Thanks for visiting my profile!
 
