@@ -15,7 +15,7 @@
 ```javascript
 const kevin = {
   name: "Kevin Agustian",
-  location: "Indonesia 🇮🇩",
+  location: "Bengkulu, Bengkulu Selatan, Indonesia",
   role: "Beginner Web Developer",
   currentlyLearning: ["JavaScript", "Web Development"],
   focus: ["Frontend", "Backend Basics"],
