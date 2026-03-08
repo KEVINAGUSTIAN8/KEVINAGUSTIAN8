@@ -13,7 +13,8 @@
 ```javascript
 const kevin = {
   name: "Kevin Agustian",
-  location: "Indonesia 🇮🇩",
+  location: "Bengkulu, Bengkulu Selatan, Indonesia 🇮🇩",
+  github: "https://github.com/KEVINAGUSTIAN8",
   role: "Beginner Web Developer",
   currentlyLearning: ["JavaScript", "Web Development"],
   focus: ["Frontend", "Backend Basics"],
@@ -111,6 +112,7 @@ const kevin = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-KEVINAGUSTIAN8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KEVINAGUSTIAN8)
 [![Email](https://img.shields.io/badge/Email-kevinagustian001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinagustian001@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Bengkulu-Bengkulu_Selatan%2C_Indonesia-00897B?style=for-the-badge)](https://github.com/KEVINAGUSTIAN8)
 
 </div>
 
