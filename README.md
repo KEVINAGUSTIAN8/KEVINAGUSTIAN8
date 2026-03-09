@@ -125,4 +125,3 @@ const kevin = {
 **Keep coding, keep growing! 💙**
 
 </div>
-![snake gif](https://github.com/KEVINAGUSTIAN8/KEVINAGUSTIAN8/blob/output/github-contribution-grid-snake.gif)
